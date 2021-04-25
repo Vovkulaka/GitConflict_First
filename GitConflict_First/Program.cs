@@ -7,6 +7,7 @@ namespace GitConflict_First
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!"); // First branch. First commit
         }
     }
 }
