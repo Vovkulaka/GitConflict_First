@@ -10,6 +10,7 @@ namespace GitConflict_First
             Console.WriteLine("Hello World!"); // First branch. First commit
             Console.WriteLine("Hello World!"); // First branch. Second commit
             Console.WriteLine("Hello World!"); // Second branch. First commit
+            Console.WriteLine("Hello World!"); // Dev. First commit
         }
     }
 }
